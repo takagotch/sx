@@ -3,6 +3,9 @@
 Electrum bitcoin wallet
 https://electrum.org/#home
 
+https://electrum.readthedocs.io/en/latest/index.html
+
+
 sx wallet
 https://github.com/spesmilo/sx/
 
